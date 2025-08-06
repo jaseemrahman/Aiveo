@@ -17,13 +17,6 @@ const projects = [
     tech: 'HTML, CSS, JavaScript, Python Django',
     image: 'https://readdy.ai/api/search-image?query=Luxury%20real%20estate%20platform%20interface%20showing%20modern%20properties%20and%20smart%20analytics%2C%20professional%20property%20management%20dashboard%20with%20AI%20insights%2C%20contemporary%20real%20estate%20technology%20with%20data%20visualization%20and%20market%20analysis%20tools%2C%20premium%20property%20showcase%20design&width=600&height=400&seq=smartshield-project&orientation=landscape',
     link: 'https://www.smartshieldrealestate.com/'
-  },
-  {
-    title: 'Curry Mango CT',
-    description: 'Premium restaurant website featuring authentic Caribbean and South Asian cuisine with online ordering and AI-driven menu recommendations.',
-    tech: 'Python, HTML, CSS, JavaScript',
-    image: 'https://readdy.ai/api/search-image?query=Premium%20restaurant%20website%20interface%20showcasing%20authentic%20Caribbean%20and%20South%20Asian%20cuisine%2C%20elegant%20food%20presentation%20with%20colorful%20curry%20dishes%20and%20tropical%20elements%2C%20modern%20restaurant%20branding%20with%20warm%20lighting%20and%20professional%20food%20photography%2C%20sophisticated%20dining%20experience%20design&width=600&height=400&seq=currymango-project&orientation=landscape',
-    link: 'https://currymangoct.com/'
   }
 ];
 
