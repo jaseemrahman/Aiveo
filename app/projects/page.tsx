@@ -24,15 +24,6 @@ const allProjects = [
     year: '2024'
   },
   {
-    title: 'Curry Mango CT',
-    description: 'Premium restaurant website featuring authentic Caribbean and South Asian cuisine with online ordering and AI-driven menu recommendations.',
-    tech: 'Python, HTML, CSS, JavaScript',
-    image: 'https://readdy.ai/api/search-image?query=Premium%20restaurant%20website%20interface%20showcasing%20authentic%20Caribbean%20and%20South%20Asian%20cuisine%2C%20elegant%20food%20presentation%20with%20colorful%20curry%20dishes%20and%20tropical%20elements%2C%20modern%20restaurant%20branding%20with%20warm%20lighting%20and%20professional%20food%20photography%2C%20sophisticated%20dining%20experience%20design&width=600&height=400&seq=currymango-project&orientation=landscape',
-    link: 'https://currymangoct.com/',
-    category: 'Restaurant & Hospitality',
-    year: '2024'
-  },
-  {
     title: 'FinTech Analytics Dashboard',
     description: 'Advanced financial analytics platform with AI-powered market predictions, risk assessment, and portfolio optimization for institutional investors.',
     tech: 'React, D3.js, Python, TensorFlow',
