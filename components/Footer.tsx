@@ -31,7 +31,7 @@ export default function Footer() {
               <div className="w-16 h-1 bg-white mt-2"></div>
             </div>
             <p className="text-gray-400 leading-relaxed">
-              Leveraging cutting-edge artificial intelligence to create premium digital solutions with exceptional quality.
+            Design. Develop. Dominate.
             </p>
           </div>
           
@@ -60,7 +60,7 @@ export default function Footer() {
                 <div className="w-5 h-5 flex items-center justify-center">
                   <i className="ri-mail-line"></i>
                 </div>
-                <span>iveoglobal@gmail.com</span>
+                <span>aiveoglobal@gmail.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <div className="w-5 h-5 flex items-center justify-center">
