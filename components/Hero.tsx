@@ -8,12 +8,12 @@ export default function Hero() {
 
   const banners = [
     {
-      title: "Innovation. Excellence. Future.",
-      subtitle: "We transform visionary ideas into revolutionary digital experiences that redefine industry standards and accelerate business transformation."
+      title: "Design. Develop. Dominate.",
+      subtitle: "Empowering your brand with AI‑driven design, seamless development, and market‑leading innovation."
     },
     {
       title: "AI-Powered. Premium Quality. Exceptional Results.",
-      subtitle: "We leverage cutting-edge artificial intelligence to create premium digital solutions that deliver exceptional quality and drive unprecedented business growth."
+      subtitle: "AI‑powered design and intelligent development that transforms visions into industry‑defining dominance."
     }
   ];
 
