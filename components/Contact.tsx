@@ -124,7 +124,7 @@ export default function Contact() {
                     <div className="w-6 h-6 flex items-center justify-center">
                       <i className="ri-mail-line text-lg text-black"></i>
                     </div>
-                    <span className="ml-3 text-gray-700">info@aiveo.com</span>
+                    <span className="ml-3 text-gray-700">aiveoglobal@gmail.com</span>
                   </div>
                   <div className="flex items-center">
                     <div className="w-6 h-6 flex items-center justify-center">

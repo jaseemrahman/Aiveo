@@ -60,7 +60,7 @@ export default function Footer() {
                 <div className="w-5 h-5 flex items-center justify-center">
                   <i className="ri-mail-line"></i>
                 </div>
-                <span>info@aiveo.com</span>
+                <span>iveoglobal@gmail.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <div className="w-5 h-5 flex items-center justify-center">
