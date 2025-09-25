@@ -130,7 +130,7 @@ export default function Contact() {
                     <div className="w-6 h-6 flex items-center justify-center">
                       <i className="ri-phone-line text-lg text-black"></i>
                     </div>
-                    <span className="ml-3 text-gray-700">+971-123-4567</span>
+                    <span className="ml-3 text-gray-700">+91 8714419511</span>
                   </div>
                   <div className="flex items-start">
                     <div className="w-6 h-6 flex items-center justify-center mt-1">
